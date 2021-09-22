@@ -1,0 +1,3 @@
+- 👋 Hi, I’m bob
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning c++ and ue4
